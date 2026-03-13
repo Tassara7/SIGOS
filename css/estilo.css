@@ -1,0 +1,25 @@
+/* ============================================================
+   SIGOS — Estilos Customizados
+   ============================================================ */
+
+/* Logo no cabeçalho */
+.logo-img {
+    height: 45px;
+    margin-right: 10px;
+}
+
+/* Links dos cards do dashboard (remove sublinhado) */
+.link-card {
+    text-decoration: none;
+}
+
+/* Cabeçalho */
+header .container {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 40px;
+}
